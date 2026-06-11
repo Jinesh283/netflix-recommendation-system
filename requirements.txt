@@ -1,0 +1,9 @@
+scikit-surprise
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+gradio
+pyarrow
+scikit-learn
